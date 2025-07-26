@@ -1,0 +1,1 @@
+This project does not provide definitive results, but it aims to predict the weather before you explore the locations you are curious about. Additionally, it is also possible for the project to log the searched locations on your computer.
